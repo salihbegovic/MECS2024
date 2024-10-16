@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Layout ``Abschnittsüberschrift''}{5}{0}{1}
+\beamer@sectionintoc {2}{Layout ``Abschnittsüberschrift ohne Bild''\nobreakspace {}-- Titel kann auch mehrzeilig sein}{6}{0}{2}
